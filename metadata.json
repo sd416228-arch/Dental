@@ -1,0 +1,6 @@
+{
+  "name": "Denta Care",
+  "description": "Denta Care - Modern dental clinic offering personalized dental treatments, expert dentists, and seamless online and WhatsApp appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
